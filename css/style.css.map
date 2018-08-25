@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AASA,IAAI;EACA,gBAAgB,ECPb,OAAO",
+"sources": ["../sass/style.scss","../sass/imports/palette_color.scss"],
+"names": [],
+"file": "style.css"
+}

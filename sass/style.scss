@@ -1,0 +1,12 @@
+//IMPORTS
+@import "imports/mixins.scss";
+@import "imports/palette_color.scss";
+@import "imports/responsive_mobile.scss";
+@import "imports/responsive_tablette.scss";
+@import "imports/variables.scss";
+
+
+//ELEMENTS
+body{
+    background-color: $beige;
+}
